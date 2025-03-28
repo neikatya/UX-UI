@@ -2,6 +2,9 @@
 ### оформление студенческого проекта PRO.ITMO с использованием нейросетки
 [link](https://www.figma.com/file/tJoV0TF4QpeumnnEEQ8pAX/PRO.ITMO?type=design&mode=design&t=Ngbz4FZj9ZCINDiV-0)
 
+### Yandex Cloud
+[link](https://www.figma.com/design/6aBwyWLcJaHzjogiehuxsx/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B?node-id=412-398&p=f&t=STKIbVk1cBPuz5N8-0)
+
 ### проект FTML
 [link](https://www.figma.com/design/a8M24d0hpzdS5HUxyQSLCr/FTML-%D0%BE%D1%80%D0%B3%D0%B8?node-id=0-1&p=f&t=KI5uvDNVZJ7nb4Sh-0)
 
